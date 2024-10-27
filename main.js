@@ -16,4 +16,4 @@ function updateTotalPrice() {
 }
 // add event listner for product selection
 productSelector.addEventListener('change', updateTotalPrice);
-quantityInput.addEventListener('input', updateTotalPrice);
+quantityInput.addEventListener('input', updateTotalPrice); 
